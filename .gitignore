@@ -2,3 +2,4 @@ claw-backups/
 fp-info-cache
 *.kicad_sch-bak
 *.bak
+.DS_Store
