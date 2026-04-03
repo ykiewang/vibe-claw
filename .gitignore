@@ -1,0 +1,4 @@
+claw-backups/
+fp-info-cache
+*.kicad_sch-bak
+*.bak
